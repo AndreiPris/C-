@@ -1,0 +1,15 @@
+D:\C#_Repos\SexOnTheBeach\SexOnTheBeach\obj\Debug\net6.0\SexOnTheBeach.csproj.AssemblyReference.cache
+D:\C#_Repos\SexOnTheBeach\SexOnTheBeach\obj\Debug\net6.0\SexOnTheBeach.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Repos\SexOnTheBeach\SexOnTheBeach\obj\Debug\net6.0\SexOnTheBeach.AssemblyInfoInputs.cache
+D:\C#_Repos\SexOnTheBeach\SexOnTheBeach\obj\Debug\net6.0\SexOnTheBeach.AssemblyInfo.cs
+D:\C#_Repos\SexOnTheBeach\SexOnTheBeach\obj\Debug\net6.0\SexOnTheBeach.csproj.CoreCompileInputs.cache
+D:\C#_Repos\SexOnTheBeach\SexOnTheBeach\bin\Debug\net6.0\SexOnTheBeach.exe
+D:\C#_Repos\SexOnTheBeach\SexOnTheBeach\bin\Debug\net6.0\SexOnTheBeach.deps.json
+D:\C#_Repos\SexOnTheBeach\SexOnTheBeach\bin\Debug\net6.0\SexOnTheBeach.runtimeconfig.json
+D:\C#_Repos\SexOnTheBeach\SexOnTheBeach\bin\Debug\net6.0\SexOnTheBeach.dll
+D:\C#_Repos\SexOnTheBeach\SexOnTheBeach\bin\Debug\net6.0\SexOnTheBeach.pdb
+D:\C#_Repos\SexOnTheBeach\SexOnTheBeach\obj\Debug\net6.0\SexOnTheBeach.dll
+D:\C#_Repos\SexOnTheBeach\SexOnTheBeach\obj\Debug\net6.0\refint\SexOnTheBeach.dll
+D:\C#_Repos\SexOnTheBeach\SexOnTheBeach\obj\Debug\net6.0\SexOnTheBeach.pdb
+D:\C#_Repos\SexOnTheBeach\SexOnTheBeach\obj\Debug\net6.0\SexOnTheBeach.genruntimeconfig.cache
+D:\C#_Repos\SexOnTheBeach\SexOnTheBeach\obj\Debug\net6.0\ref\SexOnTheBeach.dll
