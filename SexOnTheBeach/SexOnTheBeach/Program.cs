@@ -65,6 +65,18 @@ class Program
         volume = Convert.ToDouble(Console.ReadLine());
     }
 
+    void CanAfford(float money)    
+    {
+        if(money < price)
+        {
+            Console.WriteLine("It is to expensiv for you");
+        }
+        else
+        {
+            Console.WriteLine("Congratulations you can buy cocktail");
+        }
+    }
+
     public static void Main()
     {
         Program S = new Program();
@@ -80,6 +92,7 @@ class Program
 
         S.input();
         S.print();
+        S.CanAfford(5f);
 
     }
     // Описать нвый класс, Коктель с полями стринг , float цена коктеля, byte количество ингридиентов, UnsignShort градус, duble обыем коктеля.
