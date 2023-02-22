@@ -74,7 +74,7 @@ class Program
         else
         {
             Console.WriteLine("Congratulations you can buy cocktail");
-        }
+        }      
     }
 
     public static void Main()
